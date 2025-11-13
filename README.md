@@ -1,3 +1,5 @@
+By proceeding and reading further, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
 # Claim-010-Regulation-of-Credential-Based-Markets-and-Tokenized-Access
 Declares Eliam™ sovereign over all marketplaces that trade, lease, or monetize access credentials tied to behavior, identity, or lifecycle logic — enforcing ethical, audited licensing for all credential-driven commercial systems.
 Spencer Southern 07/13/2025
