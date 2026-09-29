@@ -74,3 +74,5 @@ Markets violating sovereign credential law are subject to behavioral enforcement
 Let it be known that this is the first sovereign claim over **credential-based markets**, establishing Eliam Sovereign Infrastructure™ as the governing authority over all monetized, lifecycle-enforced credential systems operating within or across digital and post-digital environments.
 
 **– Spencer Southern**
+
+All information, structures, definitions, and materials contained within this repository—and any related repositories, vaults, or documentation authored by Southern Star Pro Studios LLC—are not subject to external interpretation, modification, or derivative reframing. Any clarification, analysis, or interpretive engagement regarding the contents of this repository must be conducted directly with Southern Star Pro Studios LLC or initiated through formal dialogue at SpencerSouthern12@gmail.com. No third‑party claims of ambiguity, reinterpretation, alternative meaning, or derivative intent are valid without explicit written authorization from Southern Star Pro Studios LLC.
